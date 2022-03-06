@@ -32,5 +32,4 @@ public class App4 {
             default:System.out.println("So thang trong nam sai");
             }
         } 
-    }
-
+}

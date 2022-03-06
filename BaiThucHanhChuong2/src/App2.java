@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class App2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         int n;
         Scanner scanner = new Scanner(System.in);
         System.out.println("nhap vao so can kiem tra n:");
