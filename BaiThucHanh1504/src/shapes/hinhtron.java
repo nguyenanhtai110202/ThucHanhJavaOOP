@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class hinhtron extends hinhhoc {
     public float banKinh;
-    // Constructor
     public hinhtron(){
         ten = " Hinh Tron ";
     }
